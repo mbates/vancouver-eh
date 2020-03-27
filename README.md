@@ -12,13 +12,11 @@ In this document I’ll describe how to get setup for a game night. The suite of
 
 **(Note): Please use headphones or a headset when gaming as no one wants to hear themselves talking (Gamer etiquette)**
 
-In order to actually talk in discord is very simple, all you have to do is click on a voice channel. Voice channels look like the image below. You can tell they are voice channels because they have a little speaker next to them.
+In order to actually talk in discord you have to join a voice channel. Voice channels look like the image below, you can tell they are voice channels because they have a little speaker next to them.
 
 ![Voice Channels](https://github.com/mbates/vancouver-eh/blob/master/voice%20channels.png)
 
-To join the voice channels all you have to do is click on the voice channel that you want to join and you’ll automatically join it and be ready to chat. To know if you are chatting when you talk your icon will glow with a ring around it when you are speaking.
-
-To switch channels all you have to do is click on the channel you want to go to.
+To join a voice channel all you have to do is click on it and you’ll automatically join it and be ready to chat. To know if you are chatting when you talk your icon will glow with a ring around it when you are speaking.
 
 To disconnect you can either quit the app, or click the hang up button in the bottom left corner that looks like this. 
 
@@ -26,7 +24,9 @@ To disconnect you can either quit the app, or click the hang up button in the bo
 
 ## Gaming Basics:
 
-To play any jackbox party game it’s pretty simple. You’ll need two devices. Your laptop will be how you communicate with discord and how you view the game. You’ll also need a second device (probably your phone) to act as your controller for the game itself. To first view the game, on your computer you’ll need to click on the stream. To do this you go to discord and find the person streaming for your session, determined before hand. You’ll know they are streaming because it’ll say live next to their name. Then click on watch stream. Example image below.
+To play any jackbox party game it’s pretty simple. You can play just on your laptop, if you want you can use your phone as a controller. Your laptop will be used to watch the main game screen, either your phone or the website http://jackbox.tv will be the "controller".
+
+To view the main game screen, go to discord and find the person streaming (it’ll say live next to their name). Then click on watch stream. Example image below.
 
 ![Watch Stream](https://github.com/mbates/vancouver-eh/blob/master/watch%20stream.png)
 
