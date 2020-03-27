@@ -14,18 +14,26 @@ In this document I’ll describe how to get setup for a game night. The suite of
 
 In order to actually talk in discord is very simple, all you have to do is click on a voice channel. Voice channels look like the image below. You can tell they are voice channels because they have a little speaker next to them.
 
+![Voice Channels](https://github.com/mbates/vancouver-eh/blob/master/voice%20channels.png)
+
 To join the voice channels all you have to do is click on the voice channel that you want to join and you’ll automatically join it and be ready to chat. To know if you are chatting when you talk your icon will glow with a ring around it when you are speaking.
 
 To switch channels all you have to do is click on the channel you want to go to.
 
 To disconnect you can either quit the app, or click the hang up button in the bottom left corner that looks like this. 
 
+![Voice Channels](https://github.com/mbates/vancouver-eh/blob/master/disconect.png)
+
 ## Gaming Basics:
 
 To play any jackbox party game it’s pretty simple. You’ll need two devices. Your laptop will be how you communicate with discord and how you view the game. You’ll also need a second device (probably your phone) to act as your controller for the game itself. To first view the game, on your computer you’ll need to click on the stream. To do this you go to discord and find the person streaming for your session, determined before hand. You’ll know they are streaming because it’ll say live next to their name. Then click on watch stream. Example image below.
+
+![Voice Channels](https://github.com/mbates/vancouver-eh/blob/master/watch%20stream.png)
 
 Once you are in the stream you will see the game.
 
 ## Playing the Game:
 
 Once you are chatting with your buds, and have the stream running, you are ready to play. The next step is very easy. You take out your phone or other internet device, and go to https://jackbox.tv/ and enter the room code and a name and you are ready to play. Every game has these instructions before starting. An example screen looks like this 
+
+![Voice Channels](https://github.com/mbates/vancouver-eh/blob/master/jackbox.png)
