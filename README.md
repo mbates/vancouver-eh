@@ -22,13 +22,13 @@ To switch channels all you have to do is click on the channel you want to go to.
 
 To disconnect you can either quit the app, or click the hang up button in the bottom left corner that looks like this. 
 
-![Voice Channels](https://github.com/mbates/vancouver-eh/blob/master/disconect.png)
+![Disconnect](https://github.com/mbates/vancouver-eh/blob/master/disconnect.png)
 
 ## Gaming Basics:
 
 To play any jackbox party game it’s pretty simple. You’ll need two devices. Your laptop will be how you communicate with discord and how you view the game. You’ll also need a second device (probably your phone) to act as your controller for the game itself. To first view the game, on your computer you’ll need to click on the stream. To do this you go to discord and find the person streaming for your session, determined before hand. You’ll know they are streaming because it’ll say live next to their name. Then click on watch stream. Example image below.
 
-![Voice Channels](https://github.com/mbates/vancouver-eh/blob/master/watch%20stream.png)
+![Watch Stream](https://github.com/mbates/vancouver-eh/blob/master/watch%20stream.png)
 
 Once you are in the stream you will see the game.
 
@@ -36,4 +36,4 @@ Once you are in the stream you will see the game.
 
 Once you are chatting with your buds, and have the stream running, you are ready to play. The next step is very easy. You take out your phone or other internet device, and go to https://jackbox.tv/ and enter the room code and a name and you are ready to play. Every game has these instructions before starting. An example screen looks like this 
 
-![Voice Channels](https://github.com/mbates/vancouver-eh/blob/master/jackbox.png)
+![Jackbox](https://github.com/mbates/vancouver-eh/blob/master/jackbox.png)
