@@ -6,7 +6,7 @@ In this document I’ll describe how to get setup for a game night. The suite of
 
 1. The first step to playing is to install an app called Discord, do not use the web version of Discord, it won't join the game properly. Discord is very similar to slack and is used to communicate with your fellow gamers. The UI looks very similar to slack but there are a few differences we will get into soon. First download the client from here https://discordapp.com/.
 2. Once you have discord downloaded open the app, if this is your first time using discord you’ll need to make an account. Make your account and then once you are done you are all ready to join the Vancouver-Eh Gaming server.
-3. To join our server all you have to do is click this link https://discord.gg/49xZKy. Then you are ready to go.
+3. To join our server all you have to do is click this link https://discord.gg/nB9Vm8. Then you are ready to go.
 
 ## Discord basics:
 
