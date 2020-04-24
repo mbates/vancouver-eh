@@ -1,6 +1,6 @@
 # Vancouver-eh game nights
 
-(Props to @dwach414 for authoring tese instructions)
+(Props to [@dwach414](https://github.com/dwach414) for authoring these instructions)
 
 In this document I’ll describe how to get setup for a game night. The suite of games that we will play is called JackBox Party Pack. These games are easy for everyone to get into and require very little prior knowledge.
 
